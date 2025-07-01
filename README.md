@@ -4,11 +4,17 @@ An interactive dashboard built with **Streamlit** and **Plotly** to explore used
 
 📌 Features :
 💡 Overview: Profit summary by location, energy type, gearbox type
+
 📈 Monthly Profit Trend: Sales, cost, and profit over time
+
 🧑‍💼 Agent Performance: Profit, ratings, and transactions per agent
+
 📊 Profit Distribution: Boxplot by energy and gearbox type
+
 📦 Sale Status: Number of cars sold vs unsold
+
 📏 Descriptive Stats: Variance, std dev, outliers, etc
+
 🗃️ Downloadable Data: Filter and download raw data
 
 
