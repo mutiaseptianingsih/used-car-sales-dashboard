@@ -6,41 +6,6 @@ import streamlit as st
 import plotly.colors as pc
 import numpy as np
 # ========================= DASHBOARD CONFIG ========================= #
-st.markdown("""
-<style>
-#github-btn {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 9999;
-}
-#github-btn button {
-    background: linear-gradient(135deg, #0ea5e9, #38bdf8);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 14px;
-    font-weight: bold;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-}
-#github-btn button:hover {
-    background: linear-gradient(135deg, #38bdf8, #0ea5e9);
-    transform: scale(1.05);
-}
-</style>
-
-<div id='github-btn'>
-    <a href='https://github.com/mutiaseptianingsih/used-car-sales-dashboard' target='_blank' style='text-decoration: none;'>
-        <button>
-            🔗 View on GitHub
-        </button>
-    </a>
-</div>
-""", unsafe_allow_html=True)
-
 st.set_page_config(
     page_title="Used Car Sales Insight Dashboard",
     page_icon="🚗",
