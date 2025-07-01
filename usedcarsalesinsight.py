@@ -216,7 +216,7 @@ st.markdown(
 
 # ========================= LOAD & VALIDATE DATA ========================= #
 with st.spinner("🚗 Memuat data mobil bekas..."):
-    data = pd.read_csv("D:/college life/Semester 6/python/used_car_sales.csv")
+    data = pd.read_csv("used_car_sales.csv")
 
 # Rename columns if necessary
 if "Purchased Price-$" in data.columns:
