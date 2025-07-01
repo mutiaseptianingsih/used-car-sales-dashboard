@@ -2,6 +2,8 @@
 
 An interactive dashboard built with **Streamlit** and **Plotly** to explore used car sales data — covering sales trends, profit analysis, agent performance, and more.
 
+
+
 📌 Features :
 💡 Overview: Profit summary by location, energy type, gearbox type
 
@@ -18,7 +20,9 @@ An interactive dashboard built with **Streamlit** and **Plotly** to explore used
 🗃️ Downloadable Data: Filter and download raw data
 
 
+
 📂 Dataset : https://www.kaggle.com/datasets/sandeep1080/used-car-sales
+
 
 
 👥 Developed by : Coursera Recognition Team 1
@@ -27,5 +31,7 @@ An interactive dashboard built with **Streamlit** and **Plotly** to explore used
 3. Lutfiya Eka Rahmawati (M0722047)
 4. Mutia Septianingsih (M0722053)
 5. Nico Dwi Nugroho (M0722059)
+
+
 
 💡 Feel free to fork, modify, and contribute!
